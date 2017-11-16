@@ -1,0 +1,28 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "restfultodp",
+  "main": "index.js",
+  "scripts": {
+    "test": "errorrrr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saraomaya/flixproject.git"
+  },
+  "keywords": [
+    "Restful"
+  ],
+  "author": "sara omaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saraomaya/flixproject/issues"
+  },
+  "homepage": "https://github.com/saraomaya/flixproject#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
